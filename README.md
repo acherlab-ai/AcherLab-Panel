@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=36&duration=2000&pause=500&color=19D7FF&center=true&vCenter=true&width=600&lines=AcherLab+Panel;AI+%26+VPS+Management;Full-Stack+Dashboard" alt="AcherLab Panel" />
 </div>
@@ -67,3 +68,7 @@ Open http://localhost:8000
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=19D7FF,2F8BFF,3A5BFF,5A4DFF&height=100&section=footer" />
 </p>
+=======
+# AcherLab-Panel
+AcherLab Panel - AI-powered VPS management dashboard. Quan ly server, tunnel, AI chatbot, monitoring. Full-stack web app.
+>>>>>>> b7bca234396862fe05f6e9bc9ea8be566f4feb10
